@@ -1,4 +1,4 @@
-package org.example;
+package org.example.streams;
 
 import java.util.*;
 import java.util.function.*;
